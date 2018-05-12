@@ -6,7 +6,7 @@ contributor:
     aliases:
     - LeGallienne, Richard
     - Gallienne, Richard Le
-    birthdate: &id001 1866
+    birthdate: 1866
     deathdate: 1947
     gutenberg_agent_id: '246'
     url: http://www.gutenberg.org/2009/agents/246
@@ -21,11 +21,13 @@ covers:
 creator:
   author:
     agent_name: Smyth, Clifford
-    birthdate: *id001
+    birthdate: 1866
     deathdate: 1943
     gutenberg_agent_id: '41822'
     url: http://www.gutenberg.org/2009/agents/41822
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42699#The-Gilded-ManA-Romance-of-the-Andes
 gutenberg_issued: '2013-05-13'
 gutenberg_type: Text
 identifiers:
